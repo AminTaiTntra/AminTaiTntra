@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amin Tai</h1>
+<h1 style="color:blue;" align="center">Hi 👋, I'm Amin Tai</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
